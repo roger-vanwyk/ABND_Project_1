@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dont Cook</string>
+    <string name="ops_hrs">Mo - Fr ; 9 AM - 7 PM</string>
+    <string name="visit_us">Visit Us</string>
+    <string name="about_us">About Us</string>
+    <string name="address">19 Hekla Rd,Valhalla,Centurion</string>
+    <string name="aboutdc_image_view">aboutdc</string>
+    <string name="dontcook_image_view">dontcook</string>
+    <string name="quality_meals">Freshly prepared and delivered to you daily.</string>
+   </resources>
